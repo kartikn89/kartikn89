@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 Watch this space for something new!
+
+Currently learning
+1. Python for machine learning, neural networks, and finance.
+2. UiBot RPA tools.
+3. SQL for Mariadb.
+4. Autohotkey scripting.
+5. Golang.
