@@ -19,6 +19,10 @@ Watch this space for something new!
 
 Sometime after completing my Bachelor's, I came to the realisation that I had missed the boat for a huge set of skills! Working to atleast have them now. Won't look for employement, but would definitely like to contribute to some open source projects.
 
+What I love:
+1. Linux administration and DevOps
+2. Neural networks, Computer vision and NLP
+
 Currently learning
 1. Python for machine learning, neural networks, and finance
 2. UiBot RPA tools
